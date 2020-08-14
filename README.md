@@ -80,6 +80,7 @@ The code used to create and train the Agent
 (This file describes the development process and the learning algorithm, along with ideas for future work.)
 7. README.md 
 8. Smart Agents Video
+9. Reacher.zip
 
 Note: We ran our code on the Udacity workspace and in order to watch the smart agents you should download the checkpoints and the other relevant files. 
 
